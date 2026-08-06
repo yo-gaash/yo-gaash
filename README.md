@@ -41,7 +41,7 @@ I build intelligent systems, scalable backends, and clean frontends for real-wor
 ## ⚡ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yo-gaash&show_icons=false&theme=dark&hide_border=false&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&border_color=30363d&border_radius=10&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage&custom_title=Yogash's%20GitHub%20Stats" width="450" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yo-gaash&theme=dark&hide_border=false&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&border_color=30363d&border_radius=10&rank_icon=github&include_all_commits=true&count_private=true" width="450" />
 </p>
 
 <p align="center">
@@ -49,7 +49,7 @@ I build intelligent systems, scalable backends, and clean frontends for real-wor
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yo-gaash&layout=compact&theme=dark&hide_border=false&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&border_color=30363d&border_radius=10&langs_count=6&custom_title=Most%20Used%20Languages" width="450" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yo-gaash&layout=compact&theme=dark&hide_border=false&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&border_color=30363d&border_radius=10&langs_count=6" width="450" />
 </p>
 
 ---
