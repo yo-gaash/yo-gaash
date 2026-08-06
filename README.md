@@ -38,10 +38,10 @@ Experienced in building scalable RESTful APIs with Spring Boot, JWT authenticati
 
 ---
 
+> **Engineering scalable backends, clean APIs, and robust systems — end to end.**
+
 <details>
 <summary>⚡ GitHub Stats</summary>
-
-> Engineering scalable backends, clean APIs, and robust systems — end to end.
 
 <br/>
 
