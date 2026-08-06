@@ -38,7 +38,10 @@ I build intelligent systems, scalable backends, and clean frontends for real-wor
 
 ---
 
-## ⚡ GitHub Stats
+<details>
+<summary>⚡ GitHub Stats</summary>
+
+<br/>
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yo-gaash&theme=dark&hide_border=false&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&border_color=30363d&border_radius=10&rank_icon=github&include_all_commits=true&count_private=true" width="450" />
@@ -51,6 +54,8 @@ I build intelligent systems, scalable backends, and clean frontends for real-wor
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yo-gaash&layout=compact&theme=dark&hide_border=false&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&border_color=30363d&border_radius=10&langs_count=6" width="450" />
 </p>
+
+</details>
 
 ---
 
