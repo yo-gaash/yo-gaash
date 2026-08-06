@@ -3,17 +3,17 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey+There!+%F0%9F%91%8B;I'm+Yogash+%E2%80%94+Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React+%7C+MySQL;DSA+Warrior+%7C+AI+Builder+%F0%9F%9A%80;Open+to+Opportunities+%26+Collaborations!" alt="Typing Animation" width="60%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Hey+There!+%F0%9F%91%8B;I'm+Yogash+%E2%80%94+Backend+Developer;Java+%7C+Spring+Boot+%7C+MySQL;RESTful+APIs+%7C+JWT+Auth;Problem+Solver+%7C+Hackathon+Enthusiast;Seeking+Backend%2FJava+Internships!" alt="Typing Animation" width="65%" />
 </p>
 
 ---
 
 # Hey There! 👋
 
-**I'm Yogash** — full-stack developer, DSA enthusiast, and AI builder.  
-I build intelligent systems, scalable backends, and clean frontends for real-world impact.
+**I'm Yogash** — Final-year B.E. student and passionate Java Backend Developer.  
+Experienced in building scalable RESTful APIs with Spring Boot, JWT authentication, and MySQL. Proven problem-solver in hackathons and always eager to learn and build clean backend systems.
 
-📬 Reach me: [itzyogash@gmail.com](mailto:itzyogash@gmail.com) | [Portfolio](https://yo-gaash.github.io/TFC/) | [GitHub](https://github.com/yo-gaash)
+📬 Reach me: [itzyogash@gmail.com](mailto:itzyogash@gmail.com) | [LinkedIn](https://www.linkedin.com/in/yogash-s-418a43349/) | [Portfolio](https://yo-gaash.github.io/TFC/) | [GitHub](https://github.com/yo-gaash)
 
 ---
 
@@ -80,6 +80,7 @@ I build intelligent systems, scalable backends, and clean frontends for real-wor
 
 <p align="center">
   <a href="https://github.com/yo-gaash"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yogash-s-418a43349/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://yo-gaash.github.io/TFC/"><img src="https://img.shields.io/badge/Portfolio-58a6ff?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a>
   <a href="mailto:itzyogash@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://leetcode.com/yo-gaash"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
