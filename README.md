@@ -38,15 +38,18 @@ I build intelligent systems, scalable backends, and clean frontends for real-wor
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yo-gaash&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yo-gaash&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yo-gaash&show_icons=false&theme=dark&hide_border=false&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&border_color=30363d&border_radius=10&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage&custom_title=Yogash's%20GitHub%20Stats" width="450" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yo-gaash&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="40%" />
+  <img src="https://streak-stats.demolab.com?user=yo-gaash&theme=dark&hide_border=false&background=0D1117&border=30363d&stroke=30363d&ring=f97316&fire=f97316&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=f97316&sideLabels=c9d1d9&dates=8b949e&border_radius=10" width="450" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yo-gaash&layout=compact&theme=dark&hide_border=false&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&border_color=30363d&border_radius=10&langs_count=6&custom_title=Most%20Used%20Languages" width="450" />
 </p>
 
 ---
