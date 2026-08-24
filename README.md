@@ -13,7 +13,7 @@
 **I'm Yogash** — Final-year B.E. student and passionate Java Backend Developer.  
 Experienced in building scalable RESTful APIs with Spring Boot, JWT authentication, and MySQL. Proven problem-solver in hackathons and always eager to learn and build clean backend systems.
 
-📬 Reach me: [itzyogash@gmail.com](mailto:itzyogash@gmail.com) | [LinkedIn](https://www.linkedin.com/in/yogash-s-418a43349/) | [Portfolio](yo-gaash.github.io/portfolio/) | [GitHub](https://github.com/yo-gaash)
+📬 Reach me: [itzyogash@gmail.com](mailto:itzyogash@gmail.com) | [LinkedIn](https://www.linkedin.com/in/yogash-s-418a43349/) | [Portfolio](https://yo-gaash.github.io/portfolio/) | [GitHub](https://github.com/yo-gaash)
 
 ---
 
